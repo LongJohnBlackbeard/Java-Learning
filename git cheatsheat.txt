@@ -1,1 +1,9 @@
 git init - initialize - creates local respository
+
+git config --global user.name 'Daniel Tujo'
+git config --global uer.email 'danieltujo@lewisu.edu'
+
+git add      - adds to index
+git commit     - commits changes
+
+git commit -m  "Changed xyz"
