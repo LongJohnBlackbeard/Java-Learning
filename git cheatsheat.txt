@@ -7,3 +7,6 @@ git add      - adds to index
 git commit     - commits changes
 
 git commit -m  "Changed xyz"
+
+git pull origin main  -- pulls from github repository
+git push origin main  -- pushes to github repository
